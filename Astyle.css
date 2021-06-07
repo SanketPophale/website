@@ -1,0 +1,36 @@
+@import "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css";
+{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.About {
+    width: 85%;
+    height: 100vh;
+    background:url(covid2021.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+
+.navbar {
+    width: 90%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    font-size: 2rem;
+    font-style: italic;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.navbar p {
+
+}
+
+.textbox i {
+    width: 26px;
+    float: left;
+    text-align: center;
+}
